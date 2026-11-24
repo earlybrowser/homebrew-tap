@@ -1,8 +1,8 @@
 # Generated from early-browser's Packaging/early.rb when a release is
 # published. Edit the template there, not this file.
 cask "early" do
-  version "0.2.3"
-  sha256 "f91e4fe2b534f604e09037730f712fc3306149c6475108e23790421a3c31b21f"
+  version "0.2.4"
+  sha256 "48e053ed9f07fb8edeccda5aaf97e4ea6c34bbe7d4e9bfb94a6e9f4e8c48d912"
 
   url "https://github.com/earlybrowser/early-browser/releases/download/v#{version}/Early-#{version}.zip"
   name "Early"
